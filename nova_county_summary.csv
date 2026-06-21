@@ -1,0 +1,5 @@
+CountyName,county_short,baseline_jan2020,peak_value,peak_date,pct_rise_to_peak,latest_value,latest_date,pct_change_vs_2020
+Fairfax County,Fairfax,623908,780373,2022-06-30,25.1,840602,2025-12-31,34.7
+Loudoun County,Loudoun,610503,837887,2022-06-30,37.2,926054,2025-12-31,51.7
+Prince William County,Prince William,435101,579947,2022-07-31,33.3,634533,2025-12-31,45.8
+Arlington County,Arlington,694752,789435,2022-06-30,13.6,821673,2025-12-31,18.3
